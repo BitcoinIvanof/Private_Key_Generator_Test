@@ -1,0 +1,4 @@
+com\test\boot\beans\KeyPair.class
+com\test\boot\ServiceStarter.class
+com\test\boot\service\WebServiceAPI.class
+com\test\boot\logic\PrivKeyGenerator.class
